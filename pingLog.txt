@@ -1,0 +1,176 @@
+
+=====PG6-142-D600=====
+
+Pinging pg6-142-D600.ad.cs.fiu.edu [131.94.145.241] with 32 bytes of data:
+Reply from 131.94.145.241: bytes=32 time<1ms TTL=127
+Reply from 131.94.145.241: bytes=32 time<1ms TTL=127
+Reply from 131.94.145.241: bytes=32 time<1ms TTL=127
+Reply from 131.94.145.241: bytes=32 time<1ms TTL=127
+
+Ping statistics for 131.94.145.241:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+=====PG6-142-D601=====
+Ping request could not find host PG6-142-D601. Please check the name and try again.
+
+=====PG6-142-D602=====
+
+Pinging pg6-142-D602.ad.cs.fiu.edu [131.94.145.196] with 32 bytes of data:
+Reply from 131.94.145.196: bytes=32 time<1ms TTL=127
+Reply from 131.94.145.196: bytes=32 time<1ms TTL=127
+Reply from 131.94.145.196: bytes=32 time<1ms TTL=127
+Reply from 131.94.145.196: bytes=32 time<1ms TTL=127
+
+Ping statistics for 131.94.145.196:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+=====PG6-142-D603=====
+
+Pinging pg6-142-D603.ad.cs.fiu.edu [131.94.145.184] with 32 bytes of data:
+Reply from 131.94.145.184: bytes=32 time<1ms TTL=127
+Reply from 131.94.145.184: bytes=32 time<1ms TTL=127
+Reply from 131.94.145.184: bytes=32 time<1ms TTL=127
+Reply from 131.94.145.184: bytes=32 time<1ms TTL=127
+
+Ping statistics for 131.94.145.184:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+=====PG6-142-D604=====
+
+Pinging pg6-142-D604.ad.cs.fiu.edu [131.94.145.215] with 32 bytes of data:
+Reply from 131.94.145.215: bytes=32 time<1ms TTL=127
+Reply from 131.94.145.215: bytes=32 time<1ms TTL=127
+Reply from 131.94.145.215: bytes=32 time=3ms TTL=127
+Reply from 131.94.145.215: bytes=32 time=3ms TTL=127
+
+Ping statistics for 131.94.145.215:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 3ms, Average = 1ms
+
+=====PG6-142-D605=====
+
+Pinging pg6-142-D605.ad.cs.fiu.edu [131.94.145.224] with 32 bytes of data:
+Reply from 131.94.145.224: bytes=32 time=1ms TTL=127
+Reply from 131.94.145.224: bytes=32 time<1ms TTL=127
+Reply from 131.94.145.224: bytes=32 time=1ms TTL=127
+Reply from 131.94.145.224: bytes=32 time=5ms TTL=127
+
+Ping statistics for 131.94.145.224:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 5ms, Average = 1ms
+
+=====PG6-142-D606=====
+
+Pinging pg6-142-d606.cs.fiu.edu [131.94.145.183] with 32 bytes of data:
+Reply from 131.94.145.183: bytes=32 time<1ms TTL=63
+Reply from 131.94.145.183: bytes=32 time<1ms TTL=63
+Reply from 131.94.145.183: bytes=32 time<1ms TTL=63
+Reply from 131.94.145.183: bytes=32 time<1ms TTL=63
+
+Ping statistics for 131.94.145.183:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+=====PG6-142-D607=====
+
+Pinging pg6-142-d607.cs.fiu.edu [131.94.145.204] with 32 bytes of data:
+Reply from 131.94.145.204: bytes=32 time<1ms TTL=63
+Reply from 131.94.145.204: bytes=32 time<1ms TTL=63
+Reply from 131.94.145.204: bytes=32 time<1ms TTL=63
+Reply from 131.94.145.204: bytes=32 time<1ms TTL=63
+
+Ping statistics for 131.94.145.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+=====PG6-142-D608=====
+Ping request could not find host PG6-142-D608. Please check the name and try again.
+
+=====PG6-142-D609=====
+
+Pinging pg6-142-d609.ad.cs.fiu.edu [131.94.145.14] with 32 bytes of data:
+Reply from 131.94.128.17: Destination host unreachable.
+Reply from 131.94.128.17: Destination host unreachable.
+Reply from 131.94.128.17: Destination host unreachable.
+Reply from 131.94.128.17: Destination host unreachable.
+
+Ping statistics for 131.94.145.14:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+
+=====PG6-142-D610=====
+
+Pinging pg6-142-d610.cs.fiu.edu [131.94.145.198] with 32 bytes of data:
+Reply from 131.94.145.198: bytes=32 time<1ms TTL=63
+Reply from 131.94.145.198: bytes=32 time=1ms TTL=63
+Reply from 131.94.145.198: bytes=32 time<1ms TTL=63
+Reply from 131.94.145.198: bytes=32 time<1ms TTL=63
+
+Ping statistics for 131.94.145.198:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 1ms, Average = 0ms
+
+=====PG6-142-D611=====
+
+Pinging pg6-142-d611.cs.fiu.edu [131.94.145.188] with 32 bytes of data:
+Reply from 131.94.145.188: bytes=32 time<1ms TTL=63
+Reply from 131.94.145.188: bytes=32 time<1ms TTL=63
+Reply from 131.94.145.188: bytes=32 time<1ms TTL=63
+Reply from 131.94.145.188: bytes=32 time<1ms TTL=63
+
+Ping statistics for 131.94.145.188:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+=====PG6-142-D612=====
+
+Pinging pg6-142-d612.ad.cs.fiu.edu [131.94.145.237] with 32 bytes of data:
+Reply from 131.94.145.237: bytes=32 time<1ms TTL=127
+Reply from 131.94.145.237: bytes=32 time<1ms TTL=127
+Reply from 131.94.145.237: bytes=32 time<1ms TTL=127
+Reply from 131.94.145.237: bytes=32 time=1ms TTL=127
+
+Ping statistics for 131.94.145.237:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 1ms, Average = 0ms
+
+=====PG6-142-D613=====
+
+Pinging PG6-142-D613.ad.cs.fiu.edu [131.94.145.239] with 32 bytes of data:
+Reply from 131.94.145.239: bytes=32 time<1ms TTL=127
+Reply from 131.94.145.239: bytes=32 time<1ms TTL=127
+Reply from 131.94.145.239: bytes=32 time<1ms TTL=127
+Reply from 131.94.145.239: bytes=32 time<1ms TTL=127
+
+Ping statistics for 131.94.145.239:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+=====PG6-142-D614=====
+
+Pinging pg6-142-d614.ad.cs.fiu.edu [131.94.145.253] with 32 bytes of data:
+Reply from 131.94.145.253: bytes=32 time<1ms TTL=127
+Reply from 131.94.145.253: bytes=32 time<1ms TTL=127
+Reply from 131.94.145.253: bytes=32 time<1ms TTL=127
+Reply from 131.94.145.253: bytes=32 time<1ms TTL=127
+
+Ping statistics for 131.94.145.253:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+=====PG6-142-D615=====
+Ping request could not find host PG6-142-D615. Please check the name and try again.
